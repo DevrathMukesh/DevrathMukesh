@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a second-year student at Thapar University<br>I'm currently in App development, Video Editing, Blender, Python<br>I create PowerPoint presentations for fun.<br>
+I'm currently a Forth-year student at Thapar University<br>I'm currently in App development, Video Editing, Blender, Python<br>I create PowerPoint presentations for fun.<br>
 
 
 ## 🌐 Socials:
